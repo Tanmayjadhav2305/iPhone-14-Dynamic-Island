@@ -1,12 +1,12 @@
 # iPhone 14 Dynamic Island Animation
 
-An interactive demonstration of the iPhone 14's Dynamic Island feature built with HTML and CSS.
+Live Demo: [View Project](https://tanmayjadhav2305.github.io/iPhone-14-Dynamic-Island/)
 
 ## Features
 - Interactive color switcher
-- Dynamic Island animation effects
-- Realistic iPhone 14 Pro design
+- Dynamic Island animation
+- Responsive design
 
-## Technologies Used
+## Technologies
 - HTML5
 - CSS3
